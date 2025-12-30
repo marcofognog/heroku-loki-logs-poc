@@ -1,0 +1,7 @@
+log_producer_app_name = "log-producer-2025"
+promtail_app_name = "promtail-2025"
+
+job_name = "log_producer_logs"
+loki_host = "your.host.grafana.net"
+loki_tenant_id = "<ID>"
+loki_token = "<YOUR TOKEN>"
