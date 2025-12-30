@@ -7,6 +7,6 @@
 
 ### Links
 
-https://devcenter.heroku.com/articles/log-drains#https-drains
-https://grafana.com/blog/how-to-easily-configure-grafana-loki-and-promtail-to-receive-logs-from-heroku/
-https://registry.terraform.io/providers/heroku/heroku/latest/docs/resources/app
+* https://devcenter.heroku.com/articles/log-drains#https-drains
+* https://grafana.com/blog/how-to-easily-configure-grafana-loki-and-promtail-to-receive-logs-from-heroku/
+* https://registry.terraform.io/providers/heroku/heroku/latest/docs/resources/app
