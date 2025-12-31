@@ -25,4 +25,5 @@ variable "loki_tenant_id" {
 variable "loki_token" {
   type = string
   description = "This was generated in the Grafana-labs"
+  sensitive = true
 }
