@@ -13,7 +13,7 @@ The Terraform scripts create and configure both apps on Heroku. Loki and Grafana
 
 ### Setup instructions
 
-Follow the steps to create your token describe [here](https://grafana.com/blog/how-to-easily-configure-grafana-loki-and-promtail-to-receive-logs-from-heroku/#:~:text=Click%20the%20Details%20button%20under%20the%20Loki%20card).
+Follow the steps to create your token described [here](https://grafana.com/blog/how-to-easily-configure-grafana-loki-and-promtail-to-receive-logs-from-heroku/#:~:text=Click%20the%20Details%20button%20under%20the%20Loki%20card).
 
 When the forementioned text starts talking about creating apps on Heroku, you skip all of that and do this instead:
 
